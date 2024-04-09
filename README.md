@@ -6,9 +6,11 @@ discord bot for resolving acronyms and defining search terms.
 >Search acronym meanings and search definitions of words/terms/etc within discord chat. This application used www.acronymfinder.com and www.wikipedia.org respectively.
 >
 ### Notes:
->Quite reliable and decent speed. Uses the python Requests and BeautifulSoup libraries to scrape the relevant data from the site corospnding to the search.  
+>Quite reliable and decent speed. Uses the python Requests and BeautifulSoup libraries to scrape the relevant data from the site corospnding to the search.
 >
->This is not meant to be downloaded form git as an application in whole, but rather to make the source code public. Token not included. To run this bot as your own, you will need to create a Discord bot linked to your account at `https://discord.com/developers/applications` to recieve a valid login token. That token will need to be saved inside a `.env` file as `TOKEN=YOUR_TOKEN` within the same directory as the source files..
+>Notice that Discord has a limit of 2000 characters in bot responses. Therefore any output generated that exceeds this limit will be truncated. The URL of the given response will be included with the output for all queries if effort to allow that users may easily navigate to and explore resonses to the fullest extent if needed.  
+>
+>This is not meant to be downloaded form git as an application in whole, but rather to make the source code public. However, you are welcome to do so. Token not included. To run this bot as your own, you will need to create a Discord bot linked to your account at `https://discord.com/developers/applications` to recieve a valid bot login token. That token will need to be saved inside the `.env` file as `TOKEN=YOUR_TOKEN` which has already been created for you. You just need to edit the file when you recieve a valid token.
 >
 >*NEVER SHARE YOUR LOGIN TOKENS WITH ANYONE!*
 >
