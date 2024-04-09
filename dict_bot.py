@@ -32,6 +32,8 @@ def listener() -> None:
         if(not(message.content.startswith('?acronym') or message.content.startswith('?define') or message.content.startswith('?help'))):return
         print(f'USER:{message.author} COMMAND:{message.content}')
         if(message.content.startswith('?help')): await bot_help(message)
-        else: await respond(message)
+        else: 
+            try: await respond(message)
+            except: await message.reply("The response for this query is currently to large to load in Discord at this time. Try another command or use `www.acronymfinder.com` or `www.wikipedia.org` directly for this query until resolved. Thank you.")
     
     client.run(TOKEN)
