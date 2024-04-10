@@ -29,9 +29,9 @@ def listener() -> None:
     @client.event
     async def on_message(message) -> None:
         if(message.author == client.user):return
-        if(not(message.content.startswith('?acronym') or message.content.startswith('?define') or message.content.startswith('?help'))):return
+        if(not(message.content.startswith('?acronym') or message.content.startswith('?define') or message.content.startswith('?dictbot-help'))):return
         print(f'USER:{message.author} COMMAND:{message.content}')
-        if(message.content.startswith('?help')): await bot_help(message)
+        if(message.content.startswith('?dictbot-help')): await bot_help(message)
         else: 
             try: await respond(message)
             except: await message.reply('There was an error in the response. Please try again or visit `www.acronymfinder.com` or `www.wikipedia.org` directly.')
