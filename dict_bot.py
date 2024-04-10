@@ -34,6 +34,6 @@ def listener() -> None:
         if(message.content.startswith('?help')): await bot_help(message)
         else: 
             try: await respond(message)
-            except: await message.reply("The response for this query is currently to large to load in Discord at this time. Try another command or use `www.acronymfinder.com` or `www.wikipedia.org` directly for this query until resolved. Thank you.")
+            except: await message.reply('There was an error in the response. Please try again or visit `www.acronymfinder.com` or `www.wikipedia.org` directly.')
     
     client.run(TOKEN)
