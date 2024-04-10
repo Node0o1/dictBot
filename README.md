@@ -19,21 +19,21 @@ discord bot for resolving acronyms and defining search terms.
 
 
 ## **Images:**
-- ?help
+- ?dictbot-help
 <p align="center">
-  <img width="854" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/602bdde6-70d4-4184-8da2-d3414ee705c0">
+  <img width="608" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/108314bc-004c-45e8-95c3-af7dc48809ba">
 
 </p>
 
 - ?acronym
 <p align="center">
-  <img width="855" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/08146e78-786d-4025-9894-9e0674d18290">
+  <img width="608" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/902b08b5-0ca3-4be2-9c85-ddabcb22f121">
 
 </p>
 
 - ?define
 <p align="center">
-  <img width="854" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/c6285548-4dd6-44a2-bb6a-e9b97933d052">
+  <img width="857" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/352bce51-c9e3-40bd-885f-da1d2c7a7e37">
 
 </p>
 
