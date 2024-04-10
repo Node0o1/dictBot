@@ -3,7 +3,7 @@ discord bot for resolving acronyms and defining search terms.
 ##### *Type: Discord-Bot*
 
 ### Description:
->Search acronym meanings and search definitions of words/terms/etc within discord chat. This application used www.acronymfinder.com and www.wikipedia.org respectively.
+>Search acronym meanings and search definitions of words/terms/etc within discord chat. This application uses www.acronymfinder.com and www.wikipedia.org respectively.
 >
 ### Notes:
 >Quite reliable and decent speed. Uses the python Requests and BeautifulSoup libraries to scrape the relevant data from the site corospnding to the search.
