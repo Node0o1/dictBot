@@ -6,6 +6,8 @@ discord bot for resolving acronyms and defining search terms.
 > This allows users to search definitions of words within the Discord chat.
 >
 > New images coming soon
+>
+> Also creates a log of used commands for analysis purposes. Feel free to remove that line if desired.
 
 ##### *Type: Discord-Bot*
 
