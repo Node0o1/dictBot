@@ -5,7 +5,7 @@ discord bot for resolving acronyms and defining search terms.
 > This bot supports slash commands and now also adopted dictionary.com
 > This allows users to search definitions of words within the Discord chat.
 >
-> New images coming soon
+> New images and supporting comments coming soon
 >
 > Also creates a log of used commands for analysis purposes. Feel free to remove that line if desired.
 
