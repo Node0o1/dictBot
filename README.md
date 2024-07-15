@@ -1,13 +1,12 @@
 # dictBot
 discord bot for resolving acronyms and defining search terms. 
+##### *Type: Discord-Bot*
 
 ## Whats new
 > This bot supports slash commands and now also adopted dictionary.com
 > This allows users to search definitions of words within the Discord chat.
 >
 > **Also creates a log of used commands for analysis purposes. Feel free to remove that line if desired.**
-
-##### *Type: Discord-Bot*
 
 ### Description:
 >Search acronym meanings and search definitions of words/terms/etc within discord chat. This application uses www.acronymfinder.com, www.wikipedia.org, and www.dictionary.com respectively.
