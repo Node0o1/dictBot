@@ -29,7 +29,6 @@ discord bot for resolving acronyms and defining search terms.
 - /dictbot-help
 <p align="center">
   <img width="608" alt="image" src="https://github.com/user-attachments/assets/f7b608c0-112f-4706-bf62-3fc143c84f35">
-">
 
 </p>
 
@@ -37,13 +36,11 @@ discord bot for resolving acronyms and defining search terms.
 <p align="center">
   <img width="608" alt="image" src="https://github.com/user-attachments/assets/4ef17478-fc0c-4df3-a8df-94ae2bf1d6dd">
 
-
 </p>
 
 - /wiki
 <p align="center">
   <img width="608" alt="image" src="https://github.com/user-attachments/assets/e9da88eb-e5e2-486b-a28b-65627d0a1e88">
-
 
 </p>
 
