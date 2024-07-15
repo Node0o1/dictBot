@@ -47,7 +47,7 @@ discord bot for resolving acronyms and defining search terms.
 
 </p>
 
--/dictionary
+- /dictionary
 <p align="center">
   <img width="608" alt="image" src="https://github.com/user-attachments/assets/5ae6996c-f913-47a1-890e-2d6710a10cb4">
 
