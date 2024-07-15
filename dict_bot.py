@@ -12,6 +12,7 @@ intents=discord.Intents.default()
 intents.message_content=True
 bot = commands.Bot(command_prefix='/', intents=intents)
 
+
 #Feel free to remove this function from the program. log is for analysis purpose only.
 def write_log(message, url, param) -> None:
     with open('./dictbot-log.bin', mode='ab+') as fhandle:
