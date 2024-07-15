@@ -12,14 +12,15 @@ discord bot for resolving acronyms and defining search terms.
 ##### *Type: Discord-Bot*
 
 ### Description:
->Search acronym meanings and search definitions of words/terms/etc within discord chat. This application uses www.acronymfinder.com and www.wikipedia.org respectively.
+>Search acronym meanings and search definitions of words/terms/etc within discord chat. This application uses www.acronymfinder.com, www.wikipedia.org, and www.dictionary.com respectively.
 >
 ### Notes:
 >Quite reliable and decent speed. Uses the python Requests and BeautifulSoup libraries to scrape the relevant data from the site corospnding to the search.
 >
->Notice that Discord has a limit of 2000 characters in bot responses. Therefore any output generated that exceeds this limit will be truncated. The URL of the given response will be included with the output for all queries if effort to allow that users may easily navigate to and explore resonses to the fullest extent if needed.  
+>Notice that Discord has a limit of 2000 characters in bot responses. Therefore any output generated that exceeds this limit will be truncated. The URL of the given response will be included with the output for all queries to allow users to easily navigate to and explore responses to the fullest extent if needed.  
 >
->This is not meant to be downloaded form git as an application in whole, but rather to make the source code public. However, you are welcome to do so. Token not included. To run this bot as your own, you will need to create a Discord bot linked to your account at `https://discord.com/developers/applications` to recieve a valid bot login token. That token will need to be saved inside the `.env` file as `TOKEN=YOUR_TOKEN` which has already been created for you. You just need to edit the file when you recieve a valid token.
+>This is not meant to be downloaded form git as an application in whole, but rather to make the source code public. However, you are welcome to do so.
+>Token not included. To run this bot as your own, you will need to create a Discord bot linked to your account at `https://discord.com/developers/applications` to recieve a valid bot login token. That token will need to be saved inside the `.env` file as `TOKEN=YOUR_TOKEN` which has already been created for you. You just need to edit the file when you recieve a valid token.
 >
 >*NEVER SHARE YOUR LOGIN TOKENS WITH ANYONE!*
 >
@@ -28,23 +29,33 @@ discord bot for resolving acronyms and defining search terms.
 
 
 ## **Images:**
-- ?dictbot-help
+- /dictbot-help
 <p align="center">
-  <img width="608" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/108314bc-004c-45e8-95c3-af7dc48809ba">
+  <img width="608" alt="image" src="https://github.com/user-attachments/assets/f7b608c0-112f-4706-bf62-3fc143c84f35">
+">
 
 </p>
 
-- ?acronym
+- /acronym-finder
 <p align="center">
-  <img width="608" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/902b08b5-0ca3-4be2-9c85-ddabcb22f121">
+  <img width="608" alt="image" src="https://github.com/user-attachments/assets/4ef17478-fc0c-4df3-a8df-94ae2bf1d6dd">
+
 
 </p>
 
-- ?define
+- /wiki
 <p align="center">
-  <img width="857" alt="image" src="https://github.com/Node0o1/dictBot/assets/157242958/352bce51-c9e3-40bd-885f-da1d2c7a7e37">
+  <img width="608" alt="image" src="https://github.com/user-attachments/assets/e9da88eb-e5e2-486b-a28b-65627d0a1e88">
+
 
 </p>
+
+-/dictionary
+<p align="center">
+  <img width="608" alt="image" src="https://github.com/user-attachments/assets/5ae6996c-f913-47a1-890e-2d6710a10cb4">
+
+</p>
+
 
   
 
